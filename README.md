@@ -1,6 +1,6 @@
 ## Mingalabar
 
-### My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
+My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default) -->
 
@@ -35,8 +35,6 @@
 <img alt="Ubuntu" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 ][tools_anchor]
 [
-<img alt="Apple" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-][tools_anchor]
 [
 <img alt="Wordpress" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 ][tools_anchor]
@@ -52,6 +50,7 @@
 [
 <img alt="Filezilla" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 ][tools_anchor]
+<br/>
 
 <a name="languages"></a>
 
@@ -78,7 +77,7 @@
 [
 <img alt="Redux" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 ][languages_anchor]
-
+<br/>
 <a name="learning"></a>
 
 ## Currently learning/improving :
@@ -89,6 +88,7 @@
 [
 <img alt="Typescript" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 ][learning_anchor]
+<br/>
 
 <a name="plan"></a>
 
@@ -105,6 +105,7 @@
 ][plan_anchor]
 
 <!-- ReactQuery -->
+<br/>
 
 <a name="interested"></a>
 
@@ -131,6 +132,7 @@
 [
 <img alt="Express" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 ][interested_anchor]
+<br/>
 
 ## Connect with Me:
 
