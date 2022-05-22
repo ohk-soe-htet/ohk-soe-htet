@@ -1,6 +1,6 @@
 ## Mingalabar
 
-My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
+My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I studies Computer Engineering and Information Technology at [Yangon Technological University](https://ytu.edu.mm/)-YTU formly known as RIT (suspended due to Covid followed by [national crisis](https://www.nytimes.com/article/myanmar-news-protests-coup.html) in my country).
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default) -->
 
