@@ -56,21 +56,22 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 <img alt="CSS3" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 ][languages_anchor]
 [
+<img alt="Bootstrap" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+][languages_anchor]
+[
 <img alt="Javascript" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 ][languages_anchor]
 [
 <img alt="React" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 ][languages_anchor]
 [
-<img alt="Bootstrap" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img alt="Redux" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 ][languages_anchor]
 [
 <img alt="MaterialUI" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 ][languages_anchor]
-[
-<img alt="Redux" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-][languages_anchor]
 <br/>
+
 <a name="learning"></a>
 
 ## Currently learning/improving :
