@@ -118,14 +118,14 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 <img alt="MYSQL" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 ](https://www.mysql.com/)
 [
-<img alt="NODEjs" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
-](https://nodejs.org/en/)
-[
 <img alt="MongoDB" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 ](https://www.mongodb.com/)
 [
 <img alt="Express" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 ](https://expressjs.com/)
+[
+<img alt="NODEjs" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+](https://nodejs.org/en/)
 <br/>
 
 ## Connect with Me:
