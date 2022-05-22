@@ -17,12 +17,6 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 <img alt="Git" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 ][tools_anchor]
 [
-<img alt="Github" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-][tools_anchor]
-[
-<img alt="Gitlab" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-][tools_anchor]
-[
 <img alt="NPM" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 ][tools_anchor]
 [
@@ -34,7 +28,6 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 [
 <img alt="Ubuntu" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 ][tools_anchor]
-[
 [
 <img alt="Wordpress" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 ][tools_anchor]
