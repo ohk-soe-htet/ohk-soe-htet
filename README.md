@@ -12,37 +12,37 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 
 [
 <img alt="VS Code" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-][tools_anchor]
+](https://code.visualstudio.com/)
 [
 <img alt="Git" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-][tools_anchor]
+](https://git-scm.com/)
 [
 <img alt="NPM" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-][tools_anchor]
+](https://www.npmjs.com/)
 [
 <img alt="YARN" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-][tools_anchor]
+](https://yarnpkg.com/)
 [
 <img alt="Linux" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-][tools_anchor]
+](https://www.linux.org/)
 [
 <img alt="Ubuntu" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-][tools_anchor]
+](https://ubuntu.com/)
 [
 <img alt="Wordpress" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-][tools_anchor]
+](https://wordpress.com/)
 [
 <img alt="Xcode" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
-][tools_anchor]
+](https://developer.apple.com/xcode/)
 [
 <img alt="Android Studio" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-][tools_anchor]
+](https://developer.android.com/studio)
 [
 <img alt="Trello" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-][tools_anchor]
+](https://trello.com/home)
 [
 <img alt="Filezilla" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-][tools_anchor]
+](https://filezilla-project.org/)
 <br/>
 
 <a name="languages"></a>
@@ -57,19 +57,19 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 ][languages_anchor]
 [
 <img alt="Bootstrap" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-][languages_anchor]
+](https://getbootstrap.com/)
 [
 <img alt="Javascript" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 ][languages_anchor]
 [
 <img alt="React" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-][languages_anchor]
+](https://reactjs.org/)
 [
-<img alt="Redux" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-][languages_anchor]
+<img alt="React Redux" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+](https://react-redux.js.org/)
 [
 <img alt="MaterialUI" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-][languages_anchor]
+](https://mui.com/)
 <br/>
 
 <a name="learning"></a>
@@ -78,10 +78,10 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 
 [
 <img alt="Ionic" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-][learning_anchor]
+](https://ionicframework.com/)
 [
 <img alt="Typescript" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-][learning_anchor]
+](https://www.typescriptlang.org/)
 <br/>
 
 <a name="plan"></a>
@@ -90,13 +90,13 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 
 [
 <img alt="NEXTjs" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-][plan_anchor]
+](https://nextjs.org/)
 [
 <img alt="Firebase" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-][plan_anchor]
+](https://firebase.google.com/)
 [
 <img alt="PHP" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-][plan_anchor]
+](https://www.php.net/)
 
 <!-- ReactQuery -->
 <br/>
@@ -107,25 +107,25 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar.
 
 [
 <img alt="TailwindCSS" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-][interested_anchor]
+](https://tailwindcss.com/)
 [
 <img alt="Jest" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-][interested_anchor]
+](https://jestjs.io/)
 [
 <img alt="Flutter" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-][interested_anchor]
+](https://flutter.dev/)
 [
 <img alt="MYSQL" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-][interested_anchor]
+](https://www.mysql.com/)
 [
-<img alt="NODEjs" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-][interested_anchor]
+<img alt="NODEjs" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+](https://nodejs.org/en/)
 [
 <img alt="MongoDB" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-][interested_anchor]
+](https://www.mongodb.com/)
 [
 <img alt="Express" width="26px" align="left" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-][interested_anchor]
+](https://expressjs.com/)
 <br/>
 
 ## Connect with Me:
