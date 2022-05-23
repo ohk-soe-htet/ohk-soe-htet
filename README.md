@@ -6,7 +6,9 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json) -->
 
-## Used or Familiar Tech and Tools :
+<a name="languages"></a>
+
+## Tech and Languages :
 
 [
 <img alt="VS Code" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -29,11 +31,8 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 [
 <img alt="Filezilla" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 ](https://filezilla-project.org/)
+
 <br/>
-
-<a name="languages"></a>
-
-## Languages :
 
 [
 <img alt="HTML5" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
