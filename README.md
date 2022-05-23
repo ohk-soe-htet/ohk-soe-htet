@@ -32,7 +32,8 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 <img alt="Filezilla" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
 ](https://filezilla-project.org/)
 
-<br/>
+<br />
+<br />
 
 [
 <img alt="HTML5" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
