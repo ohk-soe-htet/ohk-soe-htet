@@ -6,8 +6,6 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json) -->
 
-<a name="tools"></a>
-
 ## Used or Familiar Tech and Tools :
 
 [
@@ -17,20 +15,8 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 <img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 ](https://git-scm.com/)
 [
-<img alt="NPM" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-](https://www.npmjs.com/)
-[
-<img alt="YARN" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-](https://yarnpkg.com/)
-[
 <img alt="Linux" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 ](https://www.linux.org/)
-[
-<img alt="Ubuntu" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-](https://ubuntu.com/)
-[
-<img alt="Wordpress" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-](https://wordpress.com/)
 [
 <img alt="Xcode" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
 ](https://developer.apple.com/xcode/)
@@ -72,8 +58,6 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 ](https://mui.com/)
 <br/>
 
-<a name="learning"></a>
-
 ## Currently learning/improving :
 
 [
@@ -83,8 +67,6 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 <img alt="Typescript" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 ](https://www.typescriptlang.org/)
 <br/>
-
-<a name="plan"></a>
 
 ## Familar => Planned to upgrade/improve :
 
@@ -100,8 +82,6 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 
 <!-- ReactQuery -->
 <br/>
-
-<a name="interested"></a>
 
 ## Interested in learning at some point :
 
@@ -140,8 +120,4 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 <img alt="LinkIn" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 ](https://www.linkedin.com/in/oshskar/)
 
-[tools_anchor]: #tools
 [languages_anchor]: #languages
-[learning_anchor]: #learning
-[plan_anchor]: #plan
-[interested_anchor]: #interested
