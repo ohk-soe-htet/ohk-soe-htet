@@ -8,33 +8,11 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 
 <a name="languages"></a>
 
-## Tech and Languages :
+# Proficient In :
 
-[
-<img alt="VS Code" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-](https://code.visualstudio.com/)
 [
 <img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 ](https://git-scm.com/)
-[
-<img alt="Linux" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-](https://www.linux.org/)
-[
-<img alt="Xcode" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
-](https://developer.apple.com/xcode/)
-[
-<img alt="Android Studio" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-](https://developer.android.com/studio)
-[
-<img alt="Trello" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-](https://trello.com/home)
-[
-<img alt="Filezilla" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
-](https://filezilla-project.org/)
-
-<br />
-<br />
-
 [
 <img alt="HTML5" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 ][languages_anchor]
@@ -58,7 +36,7 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 ](https://mui.com/)
 <br/>
 
-## Currently learning/improving :
+# Currently working on :
 
 [
 <img alt="Ionic" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
@@ -68,22 +46,22 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 ](https://www.typescriptlang.org/)
 <br/>
 
-## Familar => Planned to upgrade/improve :
+# Things coming in line:
 
 [
 <img alt="NEXTjs" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 ](https://nextjs.org/)
 [
+<img alt="NODEjs" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+](https://nodejs.org/en/)
+[
 <img alt="Firebase" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 ](https://firebase.google.com/)
-[
-<img alt="PHP" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-](https://www.php.net/)
 
 <!-- ReactQuery -->
 <br/>
 
-## Interested in learning at some point :
+# Interested in learning at some point :
 
 [
 <img alt="TailwindCSS" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
@@ -106,12 +84,9 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 [
 <img alt="Express" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 ](https://expressjs.com/)
-[
-<img alt="NODEjs" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
-](https://nodejs.org/en/)
 <br/>
 
-## Connect with Me:
+# Connect with Me:
 
 [
 <img alt="Facebook" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
