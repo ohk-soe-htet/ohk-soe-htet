@@ -8,7 +8,7 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 
 <a name="languages"></a>
 
-# Proficient In :
+Proficient In :
 
 [
 <img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -36,7 +36,7 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 ](https://mui.com/)
 <br/>
 
-# Currently working on :
+Currently working on :
 
 [
 <img alt="Ionic" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
@@ -46,8 +46,7 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 ](https://www.typescriptlang.org/)
 <br/>
 
-# Things coming in line:
-
+Things coming in line:
 [
 <img alt="NEXTjs" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 ](https://nextjs.org/)
@@ -61,7 +60,7 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 <!-- ReactQuery -->
 <br/>
 
-# Interested in learning at some point :
+Interested in learning at some point :
 
 [
 <img alt="TailwindCSS" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
@@ -86,7 +85,7 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 ](https://expressjs.com/)
 <br/>
 
-# Connect with Me:
+Connect with Me:
 
 [
 <img alt="Facebook" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
