@@ -8,9 +8,7 @@ My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I s
 
 <a name="languages"></a>
 
-Proficient In :
-
-[
+Proficient In : [
 <img alt="Git" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 ](https://git-scm.com/)
 [
@@ -46,22 +44,19 @@ Currently working on :
 ](https://www.typescriptlang.org/)
 <br/>
 
-Things coming in line:
-
-[
+Things coming in line: [
 <img alt="NEXTjs" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 ](https://nextjs.org/)
 [
 <img alt="NODEjs" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
 ](https://nodejs.org/en/)
-[
+
+<!-- [
 <img alt="Firebase" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-](https://firebase.google.com/)
+](https://firebase.google.com/) -->
 <br/>
 
-Interested in learning at some point :
-
-[
+Interested in learning at some point : [
 <img alt="TailwindCSS" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 ](https://tailwindcss.com/)
 [
@@ -84,9 +79,7 @@ Interested in learning at some point :
 ](https://expressjs.com/)
 <br/>
 
-Connect with Me:
-
-[
+Connect with Me: [
 <img alt="Facebook" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
 ](https://www.facebook.com/oshskar)
 [
