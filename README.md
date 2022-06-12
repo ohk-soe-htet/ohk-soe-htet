@@ -47,6 +47,7 @@ Currently working on :
 <br/>
 
 Things coming in line:
+
 [
 <img alt="NEXTjs" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 ](https://nextjs.org/)
@@ -56,8 +57,6 @@ Things coming in line:
 [
 <img alt="Firebase" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 ](https://firebase.google.com/)
-
-<!-- ReactQuery -->
 <br/>
 
 Interested in learning at some point :
