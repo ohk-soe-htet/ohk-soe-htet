@@ -1,6 +1,6 @@
 ## Mingalabar
 
-My name is Ohk Soe Htet. I'm a frontend developer living in Yangon, Myanmar. I studies Computer Engineering and Information Technology at [Yangon Technological University](https://ytu.edu.mm/)-YTU formly known as RIT (suspended due to Covid followed by [national crisis](https://www.nytimes.com/article/myanmar-news-protests-coup.html) in my country).
+My name is Ohk Soe Htet. I'm a frontend developer.
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default) -->
 
@@ -88,6 +88,6 @@ Connect me with:
 ](https://www.facebook.com/oshskar)
 [
 <img alt="LinkIn" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-](https://www.linkedin.com/in/oshskar/)
+](https://www.linkedin.com/in/ohk-soe-htet/)
 
 [languages_anchor]: #languages
