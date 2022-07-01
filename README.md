@@ -1,11 +1,5 @@
 ## Mingalabar
 
-My name is Ohk Soe Htet. I'm a frontend developer.
-
-<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default) -->
-
-<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/ShubhKotnala/github-readme-quotes/blob/custom-quotes/customQuotes/quotes.json) -->
-
 <a name="languages"></a>
 
 Proficient In :
