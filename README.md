@@ -33,9 +33,6 @@ Proficient In :
 Currently working on :
 
 [
-<img alt="Ionic" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-](https://ionicframework.com/)
-[
 <img alt="Typescript" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 ](https://www.typescriptlang.org/)
 <br/>
