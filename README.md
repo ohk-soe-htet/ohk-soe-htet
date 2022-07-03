@@ -30,15 +30,11 @@ Proficient In :
 ](https://mui.com/)
 <br/>
 
-Currently working on :
+Things coming in line:
 
 [
 <img alt="Typescript" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 ](https://www.typescriptlang.org/)
-<br/>
-
-Things coming in line:
-
 [
 <img alt="NEXTjs" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 ](https://nextjs.org/)
