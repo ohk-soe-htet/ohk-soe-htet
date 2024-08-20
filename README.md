@@ -46,9 +46,6 @@ Things coming in line:
 Interested in learning at some point :
 
 [
-<img alt="TailwindCSS" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-](https://tailwindcss.com/)
-[
 <img alt="SASS" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 ](https://sass-lang.com/)
 [
