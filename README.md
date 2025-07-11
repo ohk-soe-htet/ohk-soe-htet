@@ -18,9 +18,6 @@ Proficient In :
 ](https://mui.com/)
 <br/>
 
-Using tech:
-
-
 [
 <img alt="NEXTjs" width="26px" align="left" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 ](https://nextjs.org/)
