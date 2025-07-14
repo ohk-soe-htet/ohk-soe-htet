@@ -1,4 +1,4 @@
-# John Doe
+# Ohk Soe Htet
 
 Full-Stack Developer specializing in the MERN stack and cloud deployment.
 
